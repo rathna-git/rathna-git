@@ -21,7 +21,7 @@
 
 ### :woman_technologist: I'm Rathna Chinthalapalli
 
-I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently working on Svelvet, an open-source component library for building dynamic, node-based user interfaces.
+I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently working on Svelvet, an open-source component library for building dynamic, node-based user interface.
 
 ---
 
