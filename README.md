@@ -39,13 +39,13 @@ I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently wor
   <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title='Babel' alt='Babel' width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title='Bootstrap' alt='Bootstrap' width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title='Jest' alt='Jest' width="40" height="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title='JQuery' alt='JQuery' width="40" height="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title='MongoDB' alt='MongoDB' width="40" height="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title='Postgresql' alt='Postgresql' width="40" height="40" />&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title='Svelte' alt='Svelte' width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title='Typescript' alt='Typrescript' width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title='Webpack' alt='Webpack' width="40" height="40" />&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title='JQuery' alt='JQuery' width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title='MongoDB' alt='MongoDB' width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title='Postgresql' alt='Postgresql' width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title='Svelte' alt='Svelte' width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title='Typescript' alt='Typrescript' width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title='Webpack' alt='Webpack' width="40" height="40" />&nbsp;    
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
