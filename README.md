@@ -41,7 +41,7 @@ I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently wor
 | **CS Fundamentals**                 | Data structures & algorithms, Object-oriented programming            |
 
 <br>
-<div align = "center">
+<div align = "left">
   
 [![My Skills](https://skillicons.dev/icons?i=ts)]()
 [![My Skills](https://skillicons.dev/icons?i=js)]()
