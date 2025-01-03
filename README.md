@@ -33,7 +33,7 @@ I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently wor
 | **Frontend**                        | React, Redux, Next.js, Svelte, SvelteKit, Tailwind CSS                        |
 | **Backend**                         | Next.js, Node.js, Express.js                                      |
 | **APIs**                            | RESTful APIs, WebSockets, GraphQL                                    |
-| **Data storage and querying**       | SQL & NoSQL databases like PostgreSQL, MongoDB, Redis, Elasticsearch |
+| **Data storage and querying**       | SQL & NoSQL: PostgreSQL, MongoDB, Redis, Elasticsearch |
 | **Testing**                         | Cypress, Playwright, Jest, Vitest                                    |
 | **Build Tools**                     | Webpack, Babel, Vite                                                 |
 | **Containerization and Deployment** | Docker, AWS (EC2, S3, RDS), Vercel                                   |
