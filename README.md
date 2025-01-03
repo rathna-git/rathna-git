@@ -25,7 +25,7 @@ I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently wor
 
 ---
 
-### ⛏ My Toolsets:
+### ⛏ My Toolset:
 
 | Category                            | Technologies                                                         |
 | ----------------------------------- | -------------------------------------------------------------------- |
