@@ -55,6 +55,7 @@ I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently wor
 [![My Skills](https://skillicons.dev/icons?i=html)]()
 [![My Skills](https://skillicons.dev/icons?i=css)]()
 [![My Skills](https://skillicons.dev/icons?i=tailwindcss&theme=light)]()
+<br>
 [![My Skills](https://skillicons.dev/icons?i=mongodb)]()
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)]()
 [![My Skills](https://skillicons.dev/icons?i=elasticsearch&theme=light)]()
