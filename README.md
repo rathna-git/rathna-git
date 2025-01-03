@@ -25,30 +25,48 @@ I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently wor
 
 ---
 
-### :hammer_and_wrench:  Tech Stack :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title='Babel' alt='Babel' width="30" height="30" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title='Bootstrap' alt='Bootstrap' width="30" height="30" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title='Jest' alt='Jest' width="30" height="30" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title='JQuery' alt='JQuery' width="30" height="30" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="30" height="30" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title='MongoDB' alt='MongoDB' width="30" height="30" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title='Postgresql' alt='Postgresql' width="30" height="30" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title='Svelte' alt='Svelte' width="30" height="30" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title='Typescript' alt='Typrescript' width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title='Webpack' alt='Webpack' width="30" height="30" />&nbsp;    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
-</div>
+### ⛏ My Toolsets:
+
+| Category                            | Technologies                                                         |
+| ----------------------------------- | -------------------------------------------------------------------- |
+| **Languages**                       | TypeScript, JavaScript, Python                                  |
+| **Frontend**                        | React, Redux, Next.js, Svelte, SvelteKit, Tailwind CSS                        |
+| **Backend**                         | Next.js, Node.js, Express.js                                      |
+| **APIs**                            | RESTful APIs, WebSockets, GraphQL                                    |
+| **Data storage and querying**       | SQL & NoSQL databases like PostgreSQL, MongoDB, Redis, Elasticsearch |
+| **Testing**                         | Cypress, Playwright, Jest, Vitest                                    |
+| **Build Tools**                     | Webpack, Babel, Vite                                                 |
+| **Containerization and Deployment** | Docker, AWS (EC2, S3, RDS), Vercel                                   |
+| **Version Control**                 | Git, GitHub                                                          |
+| **CS Fundamentals**                 | Data structures & algorithms, Object-oriented programming            |
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=ts)]()
+[![My Skills](https://skillicons.dev/icons?i=js)]()
+[![My Skills](https://skillicons.dev/icons?i=py&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=nextjs)]()
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=svelte)]()
+[![My Skills](https://skillicons.dev/icons?i=redux)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=express&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=html)]()
+[![My Skills](https://skillicons.dev/icons?i=css)]()
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=mongodb)]()
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=elasticsearch&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=graphql&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=redis&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=jest&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=cypress&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=webpack&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=vite&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=npm&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)]()
 
 
 <!--
