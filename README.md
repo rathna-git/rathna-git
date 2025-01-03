@@ -66,7 +66,7 @@ I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently wor
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)]()
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)]()
 [![My Skills](https://skillicons.dev/icons?i=npm&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)]()
+
 
 
 <!--
