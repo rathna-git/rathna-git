@@ -38,7 +38,7 @@ I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently wor
 | **Build Tools**                     | Webpack, Babel, Vite                                                 |
 | **Containerization and Deployment** | Docker, AWS (EC2, S3, RDS), Vercel                                   |
 | **Version Control**                 | Git, GitHub                                                          |
-| **CS Fundamentals**                 | Data structures & algorithms, Object-oriented programming            |
+| **CS Fundamentals**                 | Data structures & Algorithms, Object-oriented programming            |
 
 <br>
 <div align = "left">
