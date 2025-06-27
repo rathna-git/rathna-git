@@ -21,56 +21,28 @@
 
 ### :woman_technologist: I'm Rathna Chinthalapalli
 
-I'm a full-stack engineer based out of San Francisco/Bay Area. I'm currently working on Svelvet, an open-source component library for building dynamic, node-based user interface.
+I'm a Full-Stack Software Engineer passionate about building user-first web applications with React, Next.js, and TypeScript. I love delivering clean, maintainable code and thoughtful user experiences.
+
+Currently, I'm developing Quill – an AI-powered note-taking app designed to help users not just write, but summarize, refine, and organize their ideas intelligently. It's built with Next.js (App Router), TypeScript, Tailwind CSS, and integrates OpenAI for smart content enhancements.
+
+Beyond Quill, I'm diving deep into Agentic AI development—exploring how to build systems that plan, reason, and act autonomously with modern AI frameworks and tools.
 
 ---
 
-### ⛏ My Toolset:
-
-| Category                            | Technologies                                                         |
-| ----------------------------------- | -------------------------------------------------------------------- |
-| **Languages**                       | TypeScript, JavaScript, Python                                  |
-| **Frontend**                        | React, Redux, Next.js, Svelte, SvelteKit, Tailwind CSS                        |
-| **Backend**                         | Next.js, Node.js, Express.js                                      |
-| **APIs**                            | RESTful APIs, WebSockets, GraphQL                                    |
-| **Data storage and querying**       | SQL & NoSQL: PostgreSQL, MongoDB, Redis, Elasticsearch |
-| **Testing**                         | Cypress, Playwright, Jest, Vitest                                    |
-| **Build Tools**                     | Webpack, Babel, Vite                                                 |
-| **Containerization and Deployment** | Docker, AWS (EC2, S3, RDS), Vercel                                   |
-| **Version Control**                 | Git, GitHub                                                          |
-| **CS Fundamentals**                 | Data structures & Algorithms, Object-oriented programming            |
-
-<br>
-<div align = "left">
-  
-[![My Skills](https://skillicons.dev/icons?i=ts)]()
-[![My Skills](https://skillicons.dev/icons?i=js)]()
-[![My Skills](https://skillicons.dev/icons?i=py&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=nextjs)]()
-[![My Skills](https://skillicons.dev/icons?i=react&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=svelte)]()
-[![My Skills](https://skillicons.dev/icons?i=redux)]()
-[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=express&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=html)]()
-[![My Skills](https://skillicons.dev/icons?i=css)]()
-[![My Skills](https://skillicons.dev/icons?i=tailwindcss&theme=light)]()
-<br>
-[![My Skills](https://skillicons.dev/icons?i=mongodb)]()
-[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=elasticsearch&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=graphql&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=redis&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=jest&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=cypress&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=webpack&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=vite&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=npm&theme=light)]()
-
-</div>
-
+| 🗂️ **Category**                     | ⚙️ **Technologies & Tools**                                                                                                                                                                                                                                                         |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 💻 **Languages**                     | JavaScript, TypeScript, Python                                           |
+| 🎨 **Frontend**                      | React, Next.js (App Router), Svelte, SvelteKit, Tailwind CSS, shadcn/ui                                                                                                                                                                                                             |
+| 🗄️ **State Management**             | Zustand, Redux                                                                                                                                                                                                                                                                      |
+| 🖥️ **Backend**                      | Node.js, Express, Prisma                                                                                                                                                                                                                                                            |
+| 🤖 **AI & LLM Integration**          | OpenAI API, LangChain, Pinecone                                                                                                                                                                                                                                                     |
+| 🔗 **APIs**                          | RESTful APIs, WebSockets, GraphQL                                                                                                                                                                                                                                                   |
+| 💾 **Data Storage**                  | PostgreSQL, Supabase, MongoDB, Redis                                                                                                                                                                                                                                                |
+| 🧪 **Testing**                       | Playwright, Cypress, Vitest, Jest                                                                                                                                                                                                                                                   |
+| ⚡ **Build Tools**                    | Webpack, Vite, Babel                                                                                                                                                                                                                                                                |
+| 📦 **Containerization & Deployment** | Docker, AWS (EC2, S3, RDS), Vercel                                                                                                                                                                                                                                                  |
+| 🌳 **Version Control**               | Git, GitHub                                                                                                                                                                                                                                                                         |
+| 📚 **CS Fundamentals**               | Data Structures & Algorithms, OOP                                                                                                                                                                                                                                                   |
 
 <!--
 **rathna-git/rathna-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
