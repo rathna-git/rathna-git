@@ -23,7 +23,7 @@
 
 I'm a Full-Stack Software Engineer passionate about building user-first web applications with React, Next.js, and TypeScript. I love delivering clean, maintainable code and thoughtful user experiences.
 
-Currently, I'm developing Quill – an AI-powered note-taking app designed to help users not just write, but summarize, refine, and organize their ideas intelligently. It's built with Next.js (App Router), TypeScript, Tailwind CSS, and integrates OpenAI for smart content enhancements.
+Currently, I'm developing Quill, an AI-powered note-taking app designed to help users not just write, but summarize, refine, and organize their ideas intelligently. It's built with Next.js (App Router), TypeScript, Tailwind CSS, and integrates OpenAI for smart content enhancements.
 
 Beyond Quill, I'm diving deep into Agentic AI development—exploring how to build systems that plan, reason, and act autonomously with modern AI frameworks and tools.
 
