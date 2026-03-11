@@ -28,6 +28,7 @@ I specialize in React, Next.js (App Router), TypeScript, and scalable full-stack
 Currently building Lume, an AI-powered workspace for structured thinking and intelligent note workflows.
 
 Actively exploring Agentic AI — building systems that combine reasoning, memory, and tool use to create autonomous workflows.
+
 ---
 
 | 🗂️ **Category**                     | ⚙️ **Technologies & Tools**                                                                                                                                                                                                                                                         |
