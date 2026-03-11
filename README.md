@@ -21,12 +21,13 @@
 
 ### :woman_technologist: I'm Rathna Chinthalapalli
 
-I'm a Full-Stack Software Engineer passionate about building user-first web applications with React, Next.js, and TypeScript. I love delivering clean, maintainable code and thoughtful user experiences.
+Full-Stack Software Engineer crafting modern web applications and AI-driven products.
 
-Currently, I'm developing Quill, an AI-powered note-taking app designed to help users not just write, but summarize, refine, and organize their ideas intelligently. It's built with Next.js (App Router), TypeScript, Tailwind CSS, and integrates OpenAI for smart content enhancements.
+I specialize in React, Next.js (App Router), TypeScript, and scalable full-stack architecture. I care deeply about clean systems, strong UX, and building software that feels calm and intentional.
 
-Beyond Quill, I'm diving deep into Agentic AI development—exploring how to build systems that plan, reason, and act autonomously with modern AI frameworks and tools.
+Currently building Lume, an AI-powered workspace for structured thinking and intelligent note workflows.
 
+Actively exploring Agentic AI — building systems that combine reasoning, memory, and tool use to create autonomous workflows.
 ---
 
 | 🗂️ **Category**                     | ⚙️ **Technologies & Tools**                                                                                                                                                                                                                                                         |
